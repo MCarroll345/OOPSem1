@@ -1,2 +1,7 @@
 yes
+<<<<<<< HEAD
 oliver
+=======
+Spooky dookie or creepy peepee?
+RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+>>>>>>> master
